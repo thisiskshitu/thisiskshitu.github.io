@@ -76,13 +76,13 @@ body {
   font-size: 22.5px;
   font-family: "Segoe UI", sans-serif;
   cursor: pointer;
-  transition: 0.3s ease-out;
+  transition: 0.15s ease-out;
 }
 
 .second-div button:hover {
   background-color: #fff;
   color: #000;
-  transition: 0.3s ease-in;
+  transition: 0.15s ease-in;
 }
 
 .copy,
