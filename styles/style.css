@@ -92,7 +92,7 @@ body {
 
 .second-div button span:after
 {
-  content: '❯❯';
+  content: '>>';
   position: absolute;
   opacity: 0;
   top: 0;
@@ -101,7 +101,7 @@ body {
 }
 
 .second-div button:hover span {
-  padding-right: 30px;
+  padding-right: 35px;
 }
 
 .second-div button:hover span:after
